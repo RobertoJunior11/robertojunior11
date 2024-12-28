@@ -40,7 +40,7 @@ Me chamo Roberto de Oliveira Benedito Junior, tenho 22 anos e sou natural do Est
   />
 
 <img 
-      align="left" 
+      align="right" 
       alt="GitHub Stats" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertoJunior11&theme=darcula&layout=compact&custom_title=Tecnologias&langs_count=9" 
